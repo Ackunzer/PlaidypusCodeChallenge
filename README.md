@@ -1,2 +1,0 @@
-# PlaidypusCodeChallenge
-Naperville Business Search 
